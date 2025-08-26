@@ -1,0 +1,17 @@
+body{
+    background-color:lightpink;
+}
+
+.title{
+    line-height: 2;
+    letter-spacing: 2;
+}
+.heading{
+    text-decoration: underline;
+    color: darkolivegreen;
+    text-align: center;
+}
+.firstClass{
+    text-align: center;
+    background-color: blueviolet;
+}

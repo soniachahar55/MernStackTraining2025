@@ -1,0 +1,22 @@
+h1{
+    font-weight: 800;
+    background-color: brown;
+  
+}
+
+h2{
+    text-decoration: dotted;
+    text-transform: uppercase;
+}
+h3{
+    text-align: center;
+}
+p{
+    line-height: 2;
+    letter-spacing: 2;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+body {
+  font-family: 'Roboto', sans-serif;
+}

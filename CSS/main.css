@@ -1,0 +1,31 @@
+
+p{
+    background-color: orange;
+}
+
+*{
+    margin: 5px;
+    padding: 5px;
+}
+
+.main{
+    background-color: aquamarine;
+}
+
+#id{
+    font-size: medium;
+    
+}
+
+/* style.css */
+main p {
+  color: green;
+}
+
+/* Group Selector Example */
+h1, h2, h3 {
+  font-family: Arial, sans-serif;
+  color: darkblue;
+  text-align: center;
+}
+
