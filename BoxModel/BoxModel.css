@@ -1,0 +1,33 @@
+.box{
+    margin: 25, 0 ,0 , 20;
+    padding: 25px;
+    background-color: lightcoral;
+    height: 100px;
+    width: 120px;
+    border: 5px solid pink;
+    border-radius: 50%;
+    text-align: center;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.p1{
+  margin: 25, 0 ,0 , 20;
+    padding: 25px;
+    background-color: lightseagreen;
+    height: 600px;
+    width: 220px;
+    border: 5px solid pink;
+}
+.container{
+   <!--  display: inline; -- >
+
+}
+.box1{
+    margin: 20;
+    padding: 20;
+    height: 60;
+    width:65;
+    border:3px solid green;
+}
